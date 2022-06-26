@@ -1,0 +1,59 @@
+span {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+    
+}
+li {
+    list-style-type: none;
+}
+* {
+    box-sizing: border-box;
+text-align: center;
+}
+header {
+    font-family: 'Titan One', cursive;
+    font-size: 25px
+}
+.bio {
+    display: inline-block;
+    padding: 8px 40px;
+    background-color: yellow;
+    margin-top: -20px;
+    
+}
+main {
+    background-color: rgb(196, 194, 194);
+display: inline-block;
+}
+.slogan {
+    display: block;
+    background-color: rgb(220, 223, 223);
+    margin: 30px 250px;
+    padding: 40px 10px 30px 10px;
+    font-size: medium;
+    font-weight: bolder;
+}
+footer {
+    background-color: yellow;
+    margin: 10px;
+    padding: 30px;
+   
+}
+a {
+text-decoration-line: none;
+}
+img {
+    margin: 15px;
+    border-left: 15px solid red;
+    border-radius: 8px;
+}
+ol {
+
+    
+}
+ol li {
+    padding: 10px 5px;
+    text-align: justify;
+    margin-left: 80px;
+}
