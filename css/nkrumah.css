@@ -24,7 +24,10 @@ header {
 }
 main {
     background-color: rgb(196, 194, 194);
-display: inline-block;
+/* display: inline-block; */
+width: 80%;
+margin: auto;
+padding-bottom: 15px;
 }
 .slogan {
     display: block;
